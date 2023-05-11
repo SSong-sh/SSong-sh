@@ -10,7 +10,7 @@
   
   ## 💻 CODING RECORD 💻
 <div style="display:flex; flex-direction:row;">
-    <a href="https://easyhomputer.tistory.com">
+    <a href="https://ssong-sh.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
