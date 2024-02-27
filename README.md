@@ -8,14 +8,14 @@
 
 <!-- [![SSong's GitHub stats](https://github-readme-stats.vercel.app/api?username=SSONG&show_icons=true&include_all_commits=true&theme=radical&hide_border=true&count_private=true)](https://github.com/seawooya/github-readme-stats) -->
   
-  ## 💻 CODING RECORD 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://ssong-sh.tistory.com">
+<!-- ## 💻 CODING RECORD 💻
+//<div style="display:flex; flex-direction:row;">
+   // <a href="https://ssong-sh.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
   
  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ssong-sh&theme=default)](https://ssong-sh.tistory.com)
-</div><br>
+</div><br>-->
   
   ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
