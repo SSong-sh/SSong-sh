@@ -65,3 +65,6 @@
 <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SSong-sh&layout=donut)
+![](https://github-readme-stats.vercel.app/api?username=SSong-sh&show_icons=true&theme=default)
