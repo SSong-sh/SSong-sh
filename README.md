@@ -1,3 +1,5 @@
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3000&pause=5&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+SSong's+GitHub!👋)](https://git.io/typing-svg)
@@ -42,11 +44,13 @@
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 <br>
+<br>
+<br>
 
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
-<div>
+<div style="display:flex; flex-direction:row;">
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   
@@ -60,9 +64,8 @@
 
 </div>
 
-<!--<img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">-->
-  <br>
-</div>
+<br>
+<br>
 
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
@@ -81,6 +84,6 @@
 <br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SSong-sh&layout=donut&hide=plsql)
-<br>
-![](https://github-readme-stats.vercel.app/api?username=SSong-sh&show_icons=true&theme=default)
+
+![](https://github.com/SSong-sh/github-stats-transparent/blob/output/generated/languages.svg)
+![](https://github.com/SSong-sh/github-stats-transparent/blob/output/generated/overview.svg)
