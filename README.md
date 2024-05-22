@@ -81,6 +81,6 @@
 <br>
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SSong-sh&layout=donut)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SSong-sh&layout=donut&hide=plsql)
 <br>
 ![](https://github-readme-stats.vercel.app/api?username=SSong-sh&show_icons=true&theme=default)
