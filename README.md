@@ -71,7 +71,7 @@
     <a href="mailto:tjdgp0817@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
-  <a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d"](https://www.notion.so/songseonghye)>
+  <a href="https://www.notion.so/songseonghye">
 		<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" />
 	</a>
 </div>
